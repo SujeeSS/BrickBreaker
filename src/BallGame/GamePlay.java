@@ -31,7 +31,6 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener {
 		setFocusTraversalKeysEnabled(false);
 		timer = new Timer(delay, this);
 		timer.start();
-
 	}
 
 	public void paint(Graphics g) {

@@ -121,7 +121,6 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener {
 							}
 							break;
 						}
-
 					}
 				}
 			}

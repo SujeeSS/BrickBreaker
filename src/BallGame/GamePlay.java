@@ -146,7 +146,6 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener {
 			if (ballposX > 670) {
 				ballXdir = -ballXdir;
 			}
-
 		}
 
 		repaint();
